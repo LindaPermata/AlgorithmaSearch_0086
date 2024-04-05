@@ -70,6 +70,12 @@ void display()
 }
 
 int main()
+{
+    input();
+    LinearSearch();
+    display();
+    
+}
 
 
 
