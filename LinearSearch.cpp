@@ -15,7 +15,9 @@ void input()
        break;
     else 
        cout << "\nArray should have minimum 1 and maximum 20 lements. \n\n";
-       
+    }   
 
-
+    cout << "\n-----------------------\n";
+    cout << "\nEnter Array Elements \n";
+    cout << "------------------------- \n";
 }
