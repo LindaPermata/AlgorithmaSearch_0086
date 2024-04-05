@@ -61,5 +61,7 @@ void LinearSearch()
 
 }
 
+void display()
+
 
 
